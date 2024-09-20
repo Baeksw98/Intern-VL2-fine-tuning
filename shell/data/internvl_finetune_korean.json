@@ -1,0 +1,9 @@
+{
+  "nikluge-gips-2023-internvl2-train": {
+    "root": "/data/swbaek/Projects/Korean_IC_Competition/data/nikluge-gips-2023_image/",
+    "annotation": "/data/swbaek/Projects/Korean_IC_Competition/Intern-VL2-fine-tuning/data/nikluge-gips-2023-internvl2-train.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 36670
+  }
+}
